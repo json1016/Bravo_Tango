@@ -1,2 +1,2 @@
-cur_dict = None
-all_widgets = []
+cur_dict = {}
+all_widgets = {}
